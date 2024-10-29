@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Dongle&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel=stylesheet);
+@import url("components/avatar.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/buttn.css");
+@import url("components/card.css");
+
+
+body {
+   font-family: "Dongle", sans-serif;
+  font-size: 20px;
+  margin: 0px;
+}
+h1, h2, h3 {
+  font-family: "Dongle", sans-serif;
+  font-weight: bold;
+}
+a {
+  color:rgb(255, 203, 0 ) ;
+  transition: color 0.5s;}
+
+a:hover {
+  color: rgb(48, 38, 129 );}
+
+p { font-family: "Dongle", sans-serif;
+color:rgb(80, 51, 90);
+text-align: left;
+font-weight: bolder;
+}
+
+h2 { color: rgb(80, 51, 90);
+  font-family: "Dongle", sans-serif;
+  text-align: center;
+  font-weight: bolder;}
+
+h3 {color: rgb(80, 51, 90);
+  font-family: "Dongle", sans-serif;
+  font-weight: bolder;}
+
+
+

@@ -1,0 +1,15 @@
+
+
+
+.buttn {
+
+	background-color: rgb(80, 51, 90);
+	color: white;
+	box-shadow: 10px 5px 50px rgb(48, 38, 129,0.5);
+	font-family: "Dongle", sans-serif;
+	padding: 10px 10px;
+	border-radius: 50px;
+	text-decoration: none;
+	items-align: center;
+
+}
